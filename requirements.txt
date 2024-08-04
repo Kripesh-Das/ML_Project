@@ -1,4 +1,7 @@
 pandas
 numpy 
 seaborn
--e . ##AUTOMATICALLY TRIGGER setup.py file
+catboost 
+xgboost
+
+#-e . ##AUTOMATICALLY TRIGGER setup.py file
